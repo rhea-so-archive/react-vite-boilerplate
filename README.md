@@ -1,5 +1,7 @@
 # React + Vite Boilerplate
 
+<img width="500" alt="image" src="https://github.com/rhea-so-lab/react-vite-boilerplate/assets/25793226/29b670c7-a83a-4a21-9f5b-f6c203a42735">
+
 ## Dependencies
 
 - [React](https://github.com/facebook/react)
